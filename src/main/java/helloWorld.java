@@ -8,6 +8,7 @@ public class helloWorld {
 
         //System.out.println("Give me a string");
         //String input = scanner.nextLine();
+        //System.out.println("You entered: \"" + input + "\"");
         System.out.println("Enter Something: ");
         String input = scanner.nextLine();
         System.out.println("You entered: \"" + input + "\"");
